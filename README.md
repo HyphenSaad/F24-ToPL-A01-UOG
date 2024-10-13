@@ -1,6 +1,6 @@
 # Sensor Data Parsing and Analysis
 
-## Theory of Programming Languages (ToPL) - Assignment #1
+## Theory of Programming Languages (ToPL) - Assignment # 1
 
 **Name:** Saad Mansoor  
 **Roll Number:** 24015919-003  
