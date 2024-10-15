@@ -89,6 +89,7 @@ class GyroscopeAnalyzer:
         # calculated additional statistics
         print("\nGyroscope Statistics:")
         print(f"Max Angular Velocity: {self.df['angular_velocity_magnitude'].max():.4f} rad/s")
+        print(f"Min Angular Velocity: {self.df['angular_velocity_magnitude'].min():.4f} rad/s")
         print(f"Mean Angular Velocity: {self.df['angular_velocity_magnitude'].mean():.4f} rad/s")
         print(f"Total Rotation Angle: {self.df['rotation_angle'].sum():.4f} radians")
 
